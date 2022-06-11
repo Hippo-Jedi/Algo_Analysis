@@ -1,0 +1,6 @@
+Instructions:
+1. Make sure the example.txt file you wish to use is in the same directory at tsp.py
+2. Run 'python3 tsp.py tsp_example_n.txt' from the commandline
+3. The total tour length that was calculated and the runtime will be outputted on the commandline
+4. A .tour file will be created in the same directory with the total length and the city route
+5. Run 'python3 tsp-verifier.py tsp_example_n.txt tsp_example_n.txt.tour' from the commandline to check if all cities are accounted for

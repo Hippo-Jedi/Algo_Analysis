@@ -1,0 +1,5 @@
+Language: Python
+Running Command: python mst.py graph.txt
+Notes:
+1. The output is based on the .txt file inputed through the command line.
+2. Make sure .txt is in same directory as mst.py before running.
